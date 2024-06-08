@@ -1,7 +1,5 @@
 # 🌟 Hey, I'm [Your Name]! 🌟
 
-![Banner](https://yourbannerimageurl.com)
-
 🚀 Tech enthusiast | 🌈 Creator of digital wonders | ✨ Coding magician
 
 ---
