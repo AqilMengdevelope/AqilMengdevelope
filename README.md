@@ -18,4 +18,4 @@
 
 🎉 **Fun Fact:** Did you know I once made a robot that could dance better than me? 💃🤖
 
-![Cool Animation](https://i.pinimg.com/originals/11/71/2b/11712b7ed0aa6d2c8b5dd1ffd47b66bc.gif)
+![Cool Animation](https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif)
