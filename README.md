@@ -21,3 +21,5 @@
 <a href="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fjamfactory.tumblr.com%2Fpost%2F110927394096%2Fteaching-myself-pixel-art-and-gif-animation-so-i&psig=AOvVaw22Ia2p4rlxQDNVuFbZ7vR3&ust=1717927187998000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDot8_fy4YDFQAAAAAdAAAAABAE](https://64.media.tumblr.com/4863cb428e1bbedb07a09d2115598d12/tumblr_njqcjcWYqH1qz8lvgo1_1280.gif)">
     <img src="https://yourbannerimageurl.com" alt="Banner">
 </a>
+
+[![Click to see the GIF](https://yourbannerimageurl.com)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjamfactory.tumblr.com%2Fpost%2F110927394096%2Fteaching-myself-pixel-art-and-gif-animation-so-i&psig=AOvVaw22Ia2p4rlxQDNVuFbZ7vR3&ust=1717927187998000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDot8_fy4YDFQAAAAAdAAAAABAE)
